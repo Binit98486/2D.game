@@ -14,3 +14,5 @@ git commit
 git push
 git fetch  (remote to local)
 git merge () mergeeeeeeeeeeeee
+merging again
+
