@@ -15,5 +15,6 @@ git push
 git fetch  (remote to local)
 git merge () mergeeeeeeeeeeeee
 merging aga
-feature old
+feature new
+
 
