@@ -1,3 +1,16 @@
 bighero 6 is good movie
 
 and the movie cross 70 billion all over world and 50 billion in usa
+in nepal also it cross 1 crore
+
+
+
+
+
+
+
+git add.
+git commit
+git push
+git fetch  (remote to local)
+git merge () mergeeeeeeeeeeeee
